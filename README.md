@@ -4,7 +4,7 @@ Standalone Express 5 API for the inclusive SMKN 1 Jakarta public-profile CMS. Th
 
 ## Setup
 
-Requirements: Node.js 20+. From `backend/`:
+Requirements: Node.js 20+. From `backend/`
 
 ```sh
 npm ci
